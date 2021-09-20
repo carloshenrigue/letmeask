@@ -1,0 +1,21 @@
+import { createContext } from "react";
+
+type User = {
+    id: string;
+    name: string;
+    avatar: string;
+    }
+    
+    type AuthContextType = {
+      user: User | undefined;
+      singnInWithGoogle: () => Promise<void>;
+    }
+
+export const AuthContext = createContext({} as AuthContextType);
+
+
+export function AuthContextProvider() {
+    return (
+
+    );
+}
