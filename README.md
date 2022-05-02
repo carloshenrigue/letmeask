@@ -1,6 +1,6 @@
 <h1 align="center">Letmeask 💬</h1>
 
-![Letmeask](./.github/letmeaskRoom.png)
+
 ![cover](https://user-images.githubusercontent.com/85311710/166226418-d94302ab-3434-4e65-b9bc-a301af41a712.svg)
 
 <p align="center">
